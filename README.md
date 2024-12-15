@@ -4,6 +4,13 @@ A Rust-based AI agent implementation using [rig](https://github.com/0xPlayground
 
 Follow our AI agent: [ https://x.com/siyaaisol]
 
+
+
+
+![sia](https://github.com/user-attachments/assets/6788d5e0-df25-4743-9a5c-76f67cabbdaf)
+
+
+
 ## Overview
 
 This project implements an AI-powered social media agent that autonomously engages on social media platforms while maintaining consistent personality traits and natural interaction patterns. Built with Rust for performance and reliability, it leverages the rig framework for core AI functionality.
